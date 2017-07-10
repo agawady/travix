@@ -2,6 +2,9 @@ Because this is an interview assignemnt with limited time, I gave my efforts to 
 
 The 90 minutes were over before Some Important parts are implemented, these are:
 
-1. Date Formatting and validation, and their unit tests.
-2. Validations for nummber of passengers and IATA Codes, and their unit tests.
+1. Date formatting and validation.
+2. Money formatting and validation.
+3. Validations for nummber of passengers and IATA Codes.
+4. Unit tests to cover total price calculations, sorting and merging of results and all the above validations
+5. Calling the supplier services asynchronically.
 
